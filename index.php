@@ -8,7 +8,7 @@
 <body>
     <div>
         <h1>
-            Hola
+            Hola gente 
         </h1>
     </div>
 </body>
